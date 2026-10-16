@@ -21,7 +21,9 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=muhammad-shayan1&style=for-the-badge&color=C9A45C&label=PROFILE+VISITORS" alt="Profile visitors"/>
+<!-- Profile Visitors -->
+![Profile Visitors](https://komarev.com/ghpvc/?username=muhammad-shayan1&style=for-the-badge&color=C9A45C&label=PROFILE+VISITORS)
+
 
 </div>
 
