@@ -1,4 +1,4 @@
-
+  
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0D0D0D&height=8&section=header" width="100%" alt="Gold accent"/>
@@ -91,8 +91,9 @@ Hi, I'm **Muhammad Shayan** — a Full Stack Web Developer passionate about buil
 ## ◆ CONTRIBUTION GRAPH
 
 <div align="center">
+<!-- GitHub Contribution Activity -->
+![Contribution Activity](https://github-readme-activity-graph.vercel.app/graph?username=muhammad-shayan1&bg_color=0D0D0D&color=D8B66A&line=C9A45C&point=FFFFFF&area=true&hide_border=true)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammad-shayan1&bg_color=0D0D0D&color=D8B66A&line=C9A45C&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub contribution activity"/>
 
 </div>
 
@@ -101,8 +102,9 @@ Hi, I'm **Muhammad Shayan** — a Full Stack Web Developer passionate about buil
 ## ◆ CONTRIBUTION SNAKE
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/muhammad-shayan1/muhammad-shayan1/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated contribution snake"/>
+  
+<!-- Animated Contribution -->
+![Snake Animation](https://raw.githubusercontent.com/muhammad-shayan1/muhammad-shayan1/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -112,7 +114,8 @@ Hi, I'm **Muhammad Shayan** — a Full Stack Web Developer passionate about buil
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=muhammad-shayan1&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" width="100%" alt="GitHub achievements"/>
+<!-- GitHub Achievements -->
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=muhammad-shayan1&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=2&column=4)
 
 </div>
 
