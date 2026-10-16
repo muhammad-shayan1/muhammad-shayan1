@@ -1,27 +1,20 @@
+# Muhammad Shayan — GitHub Profile README
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D0D0D&height=8&section=header" width="100%" alt="Gold accent"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,50:302719,100:C9A45C&height=220&section=header&text=MUHAMMAD%20SHAYAN&fontSize=42&fontColor=F3D58A&fontAlignY=36&desc=FULL%20STACK%20WEB%20DEVELOPER&descSize=16&descColor=FFFFFF&descAlignY=58" width="100%" alt="Muhammad Shayan profile banner"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,50:302719,100:C9A45C&height=230&section=header&text=MUHAMMAD%20SHAYAN&fontSize=42&fontColor=F3D58A&fontAlignY=36&animation=fadeIn&desc=FULL%20STACK%20WEB%20DEVELOPER&descSize=16&descColor=FFFFFF&descAlignY=58" width="100%" alt="Muhammad Shayan"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2500&pause=800&color=D8B66A&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;Shopify+%26+WordPress+Developer;Turning+Ideas+Into+Digital+Experiences;Code.+Create.+Innovate." alt="Animated introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2500&pause=800&color=D8B66A&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;Shopify+%26+WordPress+Developer;Building+Modern+Web+Experiences" alt="Animated introduction"/>
 
 <br/><br/>
 
-<a href="https://github.com/muhammad-shayan1">
-<img src="https://img.shields.io/badge/GitHub-Profile-C9A45C?style=for-the-badge&logo=github&logoColor=white&labelColor=111111" alt="GitHub Profile"/>
-</a>
-<a href="https://www.linkedin.com/in/shayandev/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-C9A45C?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111111" alt="LinkedIn"/>
-</a>
-<a href="https://www.instagram.com/muhammad_shayan.dev/">
-<img src="https://img.shields.io/badge/Instagram-Follow-C9A45C?style=for-the-badge&logo=instagram&logoColor=white&labelColor=111111" alt="Instagram"/>
-</a>
+<a href="https://github.com/muhammad-shayan1"><img src="https://img.shields.io/badge/GitHub-Profile-C9A45C?style=for-the-badge&logo=github&logoColor=white&labelColor=111111" alt="GitHub Profile"/></a>
+<a href="https://www.linkedin.com/in/shayandev/"><img src="https://img.shields.io/badge/LinkedIn-Connect-C9A45C?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111111" alt="LinkedIn"/></a>
+<a href="https://www.instagram.com/muhammad_shayan.dev/"><img src="https://img.shields.io/badge/Instagram-Follow-C9A45C?style=for-the-badge&logo=instagram&logoColor=white&labelColor=111111" alt="Instagram"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=muhammad-shayan1&style=for-the-badge&color=C9A45C&label=PROFILE+VISITORS" alt="Profile visitors"/>
+<img src="https://komarev.com/ghpvc/?username=muhammad-shayan1&style=for-the-badge&color=C9A45C&label=PROFILE%20VISITORS" alt="Profile visitors"/>
 
 </div>
 
@@ -29,13 +22,13 @@
 
 ## ◆ ABOUT ME
 
-Hi, I'm **Muhammad Shayan**, a Full Stack Web Developer passionate about building modern websites, e-commerce stores, and digital experiences.
+Hi, I'm **Muhammad Shayan**, a Full Stack Web Developer interested in building modern websites, e-commerce stores, and practical digital solutions.
 
-- 💻 Developing responsive, user-friendly websites.
+- 💻 Developing responsive and user-friendly websites.
 - 🛍️ Shopify store development and customization.
-- 🌐 Exploring frontend and backend technologies.
-- 🎨 Focused on clean design and smooth user experiences.
-- 🚀 Always learning and building new projects.
+- 🌐 Working with frontend and backend technologies.
+- 🗄️ Building database-driven web applications.
+- 🚀 Continuously learning and improving my development skills.
 - 📍 Pakistan
 
 > *Turning creative ideas into meaningful digital experiences.*
@@ -51,6 +44,8 @@ Hi, I'm **Muhammad Shayan**, a Full Stack Web Developer passionate about buildin
 <img src="https://img.shields.io/badge/HTML5-171717?style=for-the-badge&logo=html5&logoColor=C9A45C" alt="HTML5"/>
 <img src="https://img.shields.io/badge/CSS3-171717?style=for-the-badge&logo=css3&logoColor=C9A45C" alt="CSS3"/>
 <img src="https://img.shields.io/badge/JavaScript-171717?style=for-the-badge&logo=javascript&logoColor=C9A45C" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Bootstrap-171717?style=for-the-badge&logo=bootstrap&logoColor=C9A45C" alt="Bootstrap"/>
+<img src="https://img.shields.io/badge/jQuery-171717?style=for-the-badge&logo=jquery&logoColor=C9A45C" alt="jQuery"/>
 
 **BACKEND & DATABASE**
 
@@ -70,7 +65,7 @@ Hi, I'm **Muhammad Shayan**, a Full Stack Web Developer passionate about buildin
 
 ---
 
-## ◆ GITHUB PERFORMANCE
+## ◆ GITHUB STATISTICS
 
 <div align="center">
 
@@ -80,13 +75,13 @@ Hi, I'm **Muhammad Shayan**, a Full Stack Web Developer passionate about buildin
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-shayan1&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=D8B66A&text_color=F5F5F5" alt="Most used languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-shayan1&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=D8B66A&text_color=F5F5F5" width="50%" alt="Most used programming languages"/>
 
 </div>
 
 ---
 
-## ◆ CONTRIBUTION GRAPH
+## ◆ CONTRIBUTION ACTIVITY
 
 <div align="center">
 
@@ -96,33 +91,11 @@ Hi, I'm **Muhammad Shayan**, a Full Stack Web Developer passionate about buildin
 
 ---
 
-## ◆ CONTRIBUTION SNAKE
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/muhammad-shayan1/muhammad-shayan1/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake animation"/>
-
-</div>
-
----
-
-## ◆ GITHUB TROPHIES
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=muhammad-shayan1&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" width="100%" alt="GitHub trophies"/>
-
-</div>
-
----
-
 ## ◆ FEATURED WORK
 
 <div align="center">
 
-<a href="https://github.com/muhammad-shayan1?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE%20MY-REPOSITORIES-C9A45C?style=for-the-badge&logo=github&logoColor=white&labelColor=111111" alt="Explore repositories"/>
-</a>
+<a href="https://github.com/muhammad-shayan1?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE%20MY-REPOSITORIES-C9A45C?style=for-the-badge&logo=github&logoColor=white&labelColor=111111" alt="Explore GitHub repositories"/></a>
 
 </div>
 
@@ -133,7 +106,7 @@ Shopify storefronts, product collections, and store customization.
 Responsive websites with modern layouts and user-friendly interfaces.
 
 **⚙️ Full Stack Development**  
-Building practical web development projects and exploring complete web solutions.
+Database-driven applications and practical web development projects.
 
 ---
 
@@ -141,27 +114,19 @@ Building practical web development projects and exploring complete web solutions
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/shayandev/">
-<img src="https://img.shields.io/badge/LINKEDIN-LET'S%20CONNECT-C9A45C?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111111" alt="Connect on LinkedIn"/>
-</a>
+<a href="https://www.linkedin.com/in/shayandev/"><img src="https://img.shields.io/badge/LINKEDIN-LET'S%20CONNECT-C9A45C?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111111" alt="LinkedIn"/></a>
 
 <br/><br/>
 
-<a href="https://www.instagram.com/muhammad_shayan.dev/">
-<img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW%20ME-C9A45C?style=for-the-badge&logo=instagram&logoColor=white&labelColor=111111" alt="Instagram"/>
-</a>
+<a href="https://www.instagram.com/muhammad_shayan.dev/"><img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW%20ME-C9A45C?style=for-the-badge&logo=instagram&logoColor=white&labelColor=111111" alt="Instagram"/></a>
 
 <br/><br/>
 
-<a href="mailto:muhammadshayanchippa12@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-GET%20IN%20TOUCH-C9A45C?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111111" alt="Email"/>
-</a>
+<a href="mailto:muhammadshayanchippa12@gmail.com"><img src="https://img.shields.io/badge/EMAIL-GET%20IN%20TOUCH-C9A45C?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111111" alt="Email"/></a>
 
 <br/><br/>
 
-<a href="https://github.com/muhammad-shayan1">
-<img src="https://img.shields.io/badge/GITHUB-FOLLOW%20MY%20JOURNEY-C9A45C?style=for-the-badge&logo=github&logoColor=white&labelColor=111111" alt="GitHub"/>
-</a>
+<a href="https://github.com/muhammad-shayan1"><img src="https://img.shields.io/badge/GITHUB-FOLLOW%20MY%20JOURNEY-C9A45C?style=for-the-badge&logo=github&logoColor=white&labelColor=111111" alt="GitHub"/></a>
 
 </div>
 
@@ -173,6 +138,6 @@ Building practical web development projects and exploring complete web solutions
 
 *Thanks for visiting my profile!*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C9A45C,50:302719,100:080808&height=140&section=footer&animation=fadeIn" width="100%" alt="Gold footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C9A45C,50:302719,100:080808&height=140&section=footer" width="100%" alt="Gold footer"/>
 
 </div>
